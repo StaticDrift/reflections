@@ -1,0 +1,3 @@
+Reflections:
+
+Github is an online platform that enable persons to share code & collaborate of projects.
